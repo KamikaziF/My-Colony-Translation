@@ -1,17 +1,21 @@
 A GitHub Repository for the (un)oficial My Colony translations.
 
 Please, make a folder where you will put the translated file itself
-To do so, you have to follow this instructions:
+**To do so, you have to follow this instructions:
 
-Go to the folder inside which you want to create another folder
 
-Click on New file
+*Go to the folder inside which you want to create another folder
 
-On the text field for the file name, first write the folder name you want to create
+*Click on New file
 
-Then type /. This creates a folder
+*On the text field for the file name, first write the folder name you want to create
 
-Finally, give the new file a name
+*Then type /. This creates a folder
 
-Finally, click Commit new file
+*Finally, give the new file a name
 
+*Finally, click Commit new file
+
+
+
+There is a file with the original english strings where you can base from. The strings codes are written in JavaScript, so it's recommendable to put the file's sufix **.js** it also makes it looks more visual so you can diference the text and the code stuff
