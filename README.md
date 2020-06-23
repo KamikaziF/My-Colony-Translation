@@ -18,4 +18,4 @@ Please, make a folder where you will put the translated file itself
 
 
 
-There is a file with the original english strings where you can base from. The strings codes are written in JavaScript, so it's recommendable to put the file's sufix **.js** it also makes it looks more visual so you can diference the text and the code stuff
+There is a file with the original english strings where you can base from. The strings codes are written in JavaScript, so it's recommendable to put the file's sufix **.js**
