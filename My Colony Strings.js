@@ -1381,5 +1381,7 @@
             "subterraneantransit-description":"Connect to a vast underground network linking regional cities together and joining their workforces and economies.",
             "select-charter":           "Select Charter",
             "share-uri":                "Join url:",
-            "share-uri-format":         "web+mycolony://join_#charterid"
+            "share-uri-format":         "web+mycolony://join_#charterid",
+            "foodreplicator-description":"This machine will process almost all inedibles into delicious food for many. While your people will never know is what their meals are made of...",
+            "warfactory-description":   "Reptilians are well known throughout the galaxy as merchants of death, partly due to their advanced war factory sweatshops, where hundreds of low skilled civilians work around the clock making bombs and other weapons."
         },
